@@ -1,0 +1,20 @@
+{
+  "page": "3",
+  "has_next": "false",
+  "content": [
+    {
+      "id": "21",
+      "type": "music",
+      "genre": "soundtrack",
+      "page_url": "http://rutube.ru/video/ab1badfaf9c4bde5e766e0be30d36522",
+      "name": "Ennio Morricone - The Good, The Bad and The Ugly"
+    },
+    {
+      "id": "22",
+      "type": "music",
+      "genre": "soundtrack",
+      "page_url": "http://rutube.ru/video/13fba6f0f6973117dc69d9519a04b509",
+      "name": "Terminator music"
+    }
+  ]
+}

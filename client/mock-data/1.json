@@ -1,0 +1,76 @@
+{
+  "page": "1",
+  "has_next": "true",
+  "content": [
+    {
+      "id": "1",
+      "type": "movie",
+      "category": "serials",
+      "page_url": "http://rutube.ru/video/e2390261af58de18d662b4c02f7c8c08",
+      "name": "Железный Человек 3/ Iron Man 3 (2013) Визуальные эффекты"
+    },
+    {
+      "id": "2",
+      "type": "music",
+      "genre": "rock",
+      "page_url": "http://rutube.ru/video/58fe7d47011e461e5619467a00966ba0",
+      "name": "Limp Bizkit —­ Behind Blue Eyes"
+    },
+    {
+      "id": "3",
+      "type": "music",
+      "genre": "rock",
+      "page_url": "http://rutube.ru/video/290e90264e5d3582ec577f1f44edd7fb",
+      "name": "AMORPHIS — Death Of A King"
+    },
+    {
+      "id": "4",
+      "type": "music",
+      "genre": "pop",
+      "page_url": "http://rutube.ru/video/91969de668a77a01e826b96e8212bb23",
+      "name": "Valeria Evans – Like Diamonds"
+    },
+    {
+      "id": "5",
+      "type": "movie",
+      "category": "international",
+      "page_url": "http://rutube.ru/video/579dcdd95392061e4d26da7eebd13bc6",
+      "name": "Персона нон грата"
+    },
+    {
+      "id": "6",
+      "type": "movie",
+      "category": "soviet",
+      "page_url": "http://rutube.ru/video/399927f94f1ed10b7e51ba700b3b2a8c",
+      "name": "Автостоп"
+    },
+    {
+      "id": "7",
+      "type": "movie",
+      "category": "international",
+      "page_url": "http://rutube.ru/video/f436135c988e6f0af14130a050697028",
+      "name": "Николь Кидман: девочка из страны Оз / Nicole Kidman. The Girl From Oz (2008)"
+    },
+    {
+      "id": "8",
+      "type": "movie",
+      "category": "soviet",
+      "page_url": "http://rutube.ru/video/8f92a3b14857912665089b01178ec0e3",
+      "name": "Прямая трансляция (1989)"
+    },
+    {
+      "id": "9",
+      "type": "movie",
+      "category": "comedy",
+      "page_url": "http://rutube.ru/video/f94b76bc26fbdd62cb0e2d7a32db7f14",
+      "name": "Раскоп (2014)"
+    },
+    {
+      "id": "10",
+      "type": "movie",
+      "category": "drama",
+      "page_url": "http://rutube.ru/video/5b216d1eb847ad5d4030cb014a030bcb",
+      "name": "Утомленные солнцем-2: Предстояние (2010)"
+    }
+  ]
+}
