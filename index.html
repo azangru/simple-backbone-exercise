@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sample Backbone app</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="content"></div>
+
+  <script src="lib/jquery/dist/jquery.min.js"></script>
+  <script src="lib/underscore/underscore-min.js"></script>
+  <script src="lib/backbone/backbone-min.js"></script>
+  <script src="scripts/models/AppModel.js"></script>
+  <script src="scripts/models/ClipModel.js"></script>
+  <script src="scripts/collections/ClipCollection.js"></script>
+  <script src="scripts/views/ClipView.js"></script>
+  <script src="scripts/views/ClipCollectionView.js"></script>
+  <script src="scripts/views/AppView.js"></script>
+  <script>
+    $(function(){
+      // set up the top-level app model object
+      var app = new AppModel();
+      // build a view for the whole app
+      var appView = new AppView({model: app});
+      $('#content').append(appView.render());
+    });
+  </script>
+</body>
+
+</html>

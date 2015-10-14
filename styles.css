@@ -1,0 +1,17 @@
+.app {
+  width: 800px;
+  margin: auto;
+}
+
+.app button {
+  margin-top: 2em;
+  float: right;
+}
+
+.clips th {
+  padding-bottom: 1em;
+}
+.clips th, .clips td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
